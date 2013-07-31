@@ -1,6 +1,5 @@
 ---
-layout: page
-
+layout: nicelayout
 ---
 
 Ecostats
@@ -25,3 +24,7 @@ Some things I hope we can accomplish:
 -   *references* There are a great many books on the
     topic and web resources. I'd like to keep an organized list of
     these.
+
+$$2^2$$
+
+I've learned a lot just by making this!
